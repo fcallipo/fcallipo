@@ -10,7 +10,7 @@
 
 🧑🏻‍💻 &nbsp;Actualmente me desempeño como desarrollador en una empresa dedicada al software y también como profesor titular de programación en una escuela técnica de nivel secundario.\
 🎓 &nbsp;Me encuentro estudiando Ingeniería en Sistemas de Información en la Universidad Tenologica Nacional (UTN).\
-✍🏼 &nbsp;Entre mis pasatiempos se encuentran el deporte, la programación, la cocina, la creación de contenido educativo y la lectura.
+✍🏼 &nbsp;Entre mis pasatiempos se encuentran el deporte, la programación, la cocina y la lectura.
 
 <br>
 
@@ -21,4 +21,4 @@
 ## 💻 Tecnologías más utilizadas:
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
-Ultima edición en: 01/04/2025
+Ultima edición en: 28/07/2025
